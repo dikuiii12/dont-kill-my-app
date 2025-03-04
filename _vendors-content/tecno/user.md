@@ -100,7 +100,7 @@ The Sleep Mode optimization will automatically turn on airplane mode at night wh
 </div>
   
 * **Battery Optimization** =  Optional
-* **Battery Saver** = OFF
+* **Battery Saver** = ON
   
 ## Smart Scenes
 
